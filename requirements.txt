@@ -1,0 +1,7 @@
+ PySide6
+ pyserial
+ pyqtgraph
+ py_kelctl
+ pglive
+ numpy
+ pyinstaller
